@@ -6,7 +6,7 @@ A template for creating online party games using ashbash1987's Hackbox package f
 - As the initial version of this project is just a template, it has no actual game functionality. You will need to implement this yourself.
 
 ### Player
-- Once a game has been created, users can join as a player by entering the matching room code displayed on the host's screen.
+- Once a game has been created, users can join as a player via https://www.hackbox.ca/ by entering the matching room code displayed on the host's screen.
 - Players actively compete against each other to win either by ending up with the highest score (no score feature has been implemented) or by meeting some other condition.
 - The player view is exclusive to the player and should not be shown to anyone else.
 - During the game, the state of each player should update to allow the player to interact with the game.
